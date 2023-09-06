@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\exercios\bin\Debug\exercios.exe.config
+C:\Users\Aluno\source\repos\exercios\bin\Debug\exercios.exe
+C:\Users\Aluno\source\repos\exercios\bin\Debug\exercios.pdb
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.Form1.resources
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.Properties.Resources.resources
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.exe
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.pdb
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.Exercicio1.resources
+C:\Users\Aluno\source\repos\exercios\obj\Debug\exercios.Exercicio2.resources
